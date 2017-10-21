@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp\.android\build-cache\a72a115a9c04f9673bc39c25936d4e7fd7d6eb0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1695a96a238202eb90d8f92ce53bf635335e0109\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ud839_Miwok-Starter-code\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9de69e91db045a1add902e3df5aea51be7ddcf5">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e6428105892170a25a7afa0357ca80c1aca70f39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp\.android\build-cache\c968b3dce1540ded596f0087d6fad1f185348ebb\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_044604889095ee3544939661f1dca81412790356\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_089d9423d5127e1e0747517f41d8340e54c30a14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp\.android\build-cache\9259a12e66e05b48d2075c6b37fcb6252f7d85cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e63c303d39311e59db1e8c3022fcf12c5cf821a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\ud839_Miwok-Starter-code\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1caf7142250273051f4e6d38982b8782d2c4b510\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp\.android\build-cache\abad74bdce28f27a5bfb6f34b6f9b03b8dda5c47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d11a11f98ff33892cfcdaca0ff090e9069a144a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp\.android\build-cache\c968b3dce1540ded596f0087d6fad1f185348ebb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76336bfb7619076b185b291a74379a271a2d2559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp\.android\build-cache\5a29134a78697a55cfe9ba473643f31e306e7371\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87ada77089d2ad1e9e892c36047f942107211ecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_089d9423d5127e1e0747517f41d8340e54c30a14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp\.android\build-cache\46a185210d3c4bcadc77099d0de893eaed1f6661\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="G:\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f85c5518af67183a2536627930fd3f54e72573f\classes.dex" />
+    </item>
+
+</items>
