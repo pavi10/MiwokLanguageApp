@@ -18,6 +18,7 @@ public class SimpleFragmentPagerAdapter extends FragmentStatePagerAdapter {
 
     @Override
     public Fragment getItem(int position) {
+
         if (position == 0) {
             return new NumbersFragments();
         } else if (position == 1){
